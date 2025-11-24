@@ -1,0 +1,5 @@
+# pytorch. see https://pytorch.org/
+numpy
+sklearn
+pillow
+torchvision

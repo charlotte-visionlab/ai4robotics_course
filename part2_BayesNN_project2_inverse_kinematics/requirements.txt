@@ -1,0 +1,15 @@
+numpy~=1.24.4
+pygame~=2.5.2
+matplotlib~=3.7.3
+scipy~=1.10.1
+torch~=2.1.0+cu118
+torchvision~=0.16.0+cu118
+#
+# https://pytorch.org/get-started/locally/
+# Install torch and torchvision and torchaudio with NVIDIA GPU acceleration
+# From an environment terminal run the command:
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#
+# Example: (from a local venv Python environment)
+# (venv) arwillis@visionlab35-pc:~/4090_AI4Robotics/exercise2_bayesNN$ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
